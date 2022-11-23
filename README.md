@@ -1,4 +1,4 @@
-# vue3-electron13-vuefify2-serialport-templete
+# vue3-electron13-vuetify2-serialport-templete
 
 ## Project setup
 ```
